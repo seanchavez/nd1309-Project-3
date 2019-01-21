@@ -1,4 +1,4 @@
-# Project 2
+# Project 3
 
 This project utilizes the Express framework for Node.js to expose GET and POST endpoints that interact with a private blockchain.
 
